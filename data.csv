@@ -1,0 +1,5 @@
+product,price,units,region
+Product A,10.0,100,North
+Product B,20.0,150,South
+Product C,15.0,200,East
+Product D,30.0,50,West
